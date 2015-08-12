@@ -1,0 +1,26 @@
+{
+  "name": "lambda-kinesis-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper for Lambda functions to easily access data from Kinesis records",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assemblymade/lambda-kinesis-wrapper.git"
+  },
+  "keywords": [
+    "lambda",
+    "aws",
+    "kinesis",
+    "node",
+    "javascript"
+  ],
+  "author": "bshyong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/assemblymade/lambda-kinesis-wrapper/issues"
+  },
+  "homepage": "https://github.com/assemblymade/lambda-kinesis-wrapper"
+}
